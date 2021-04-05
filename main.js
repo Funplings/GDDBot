@@ -67,7 +67,7 @@ const NAME_ROW = 2
 const DUE_DATE_ROW = 3
 // Labs
 const LAB_START_COLUMN = 3
-const NUM_LABS = 7
+const NUM_LABS = 6
 const NUM_LAB_COLUMNS = 8
 const LABS_TOTAL_WEIGHT = 0.1
 // Written Responses
